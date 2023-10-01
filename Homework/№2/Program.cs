@@ -1,0 +1,12 @@
+﻿﻿Console.WriteLine("Нам понадобится от вас 3 числа,");
+Console.Write("Введите первое число: ");
+int A = int.Parse(Console.ReadLine());
+Console.Write("Введите второе число: ");
+int B = int.Parse(Console.ReadLine());
+Console.Write("Введите третье число: ");
+int C = int.Parse(Console.ReadLine());
+int Max = 0;
+if (A > Max) Max = A;
+if (B > Max) Max = B;
+if (C > Max) Max = C;
+Console.WriteLine("Число " + Max + " большее");
