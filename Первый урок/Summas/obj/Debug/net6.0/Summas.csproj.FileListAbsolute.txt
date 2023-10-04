@@ -1,0 +1,15 @@
+C:\Users\Mike_VW\Desktop\C#\Первый урок\Summas\bin\Debug\net6.0\Summas.exe
+C:\Users\Mike_VW\Desktop\C#\Первый урок\Summas\bin\Debug\net6.0\Summas.deps.json
+C:\Users\Mike_VW\Desktop\C#\Первый урок\Summas\bin\Debug\net6.0\Summas.runtimeconfig.json
+C:\Users\Mike_VW\Desktop\C#\Первый урок\Summas\bin\Debug\net6.0\Summas.dll
+C:\Users\Mike_VW\Desktop\C#\Первый урок\Summas\bin\Debug\net6.0\Summas.pdb
+C:\Users\Mike_VW\Desktop\C#\Первый урок\Summas\obj\Debug\net6.0\Summas.csproj.AssemblyReference.cache
+C:\Users\Mike_VW\Desktop\C#\Первый урок\Summas\obj\Debug\net6.0\Summas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mike_VW\Desktop\C#\Первый урок\Summas\obj\Debug\net6.0\Summas.AssemblyInfoInputs.cache
+C:\Users\Mike_VW\Desktop\C#\Первый урок\Summas\obj\Debug\net6.0\Summas.AssemblyInfo.cs
+C:\Users\Mike_VW\Desktop\C#\Первый урок\Summas\obj\Debug\net6.0\Summas.csproj.CoreCompileInputs.cache
+C:\Users\Mike_VW\Desktop\C#\Первый урок\Summas\obj\Debug\net6.0\Summas.dll
+C:\Users\Mike_VW\Desktop\C#\Первый урок\Summas\obj\Debug\net6.0\refint\Summas.dll
+C:\Users\Mike_VW\Desktop\C#\Первый урок\Summas\obj\Debug\net6.0\Summas.pdb
+C:\Users\Mike_VW\Desktop\C#\Первый урок\Summas\obj\Debug\net6.0\Summas.genruntimeconfig.cache
+C:\Users\Mike_VW\Desktop\C#\Первый урок\Summas\obj\Debug\net6.0\ref\Summas.dll

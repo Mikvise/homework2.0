@@ -1,0 +1,15 @@
+C:\Users\Mike_VW\Desktop\C#\Первый урок\Cikl\bin\Debug\net6.0\Cikl.exe
+C:\Users\Mike_VW\Desktop\C#\Первый урок\Cikl\bin\Debug\net6.0\Cikl.deps.json
+C:\Users\Mike_VW\Desktop\C#\Первый урок\Cikl\bin\Debug\net6.0\Cikl.runtimeconfig.json
+C:\Users\Mike_VW\Desktop\C#\Первый урок\Cikl\bin\Debug\net6.0\Cikl.dll
+C:\Users\Mike_VW\Desktop\C#\Первый урок\Cikl\bin\Debug\net6.0\Cikl.pdb
+C:\Users\Mike_VW\Desktop\C#\Первый урок\Cikl\obj\Debug\net6.0\Cikl.csproj.AssemblyReference.cache
+C:\Users\Mike_VW\Desktop\C#\Первый урок\Cikl\obj\Debug\net6.0\Cikl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mike_VW\Desktop\C#\Первый урок\Cikl\obj\Debug\net6.0\Cikl.AssemblyInfoInputs.cache
+C:\Users\Mike_VW\Desktop\C#\Первый урок\Cikl\obj\Debug\net6.0\Cikl.AssemblyInfo.cs
+C:\Users\Mike_VW\Desktop\C#\Первый урок\Cikl\obj\Debug\net6.0\Cikl.csproj.CoreCompileInputs.cache
+C:\Users\Mike_VW\Desktop\C#\Первый урок\Cikl\obj\Debug\net6.0\Cikl.dll
+C:\Users\Mike_VW\Desktop\C#\Первый урок\Cikl\obj\Debug\net6.0\refint\Cikl.dll
+C:\Users\Mike_VW\Desktop\C#\Первый урок\Cikl\obj\Debug\net6.0\Cikl.pdb
+C:\Users\Mike_VW\Desktop\C#\Первый урок\Cikl\obj\Debug\net6.0\Cikl.genruntimeconfig.cache
+C:\Users\Mike_VW\Desktop\C#\Первый урок\Cikl\obj\Debug\net6.0\ref\Cikl.dll
